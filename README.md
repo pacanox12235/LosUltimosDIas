@@ -15,16 +15,6 @@
 <footer>
    
 
-Los Últimos Días
-En un futuro cercano, España está gobernada por Pedro Sanchas, un presidente que ha perdido el apoyo del pueblo. Para aferrarse al poder y mantener su control, Sanchas desata un plan desesperado y cruel: provoca un apagón mundial masivo, utilizando una inteligencia artificial diseñada para proteger la nación, que bloquea todas las redes eléctricas y de comunicación. Sin electricidad ni información, el caos se extiende rápidamente.
-Con el mundo a oscuras y la sociedad al borde del colapso, Pedro Sanchas va más allá y lanza ataques nucleares contra las principales ciudades españolas, buscando sembrar el miedo y mantener la autoridad a toda costa. Sin embargo, el impacto es devastador y la mayoría del país queda reducido a escombros, con miles de muertos y pocos supervivientes.
-Tú eres uno de esos supervivientes, un explorador que se refugia en El Algar, un pequeño pueblo en la región de Cartagena, Murcia. A tu alrededor, un mundo misterioso, silencioso y lleno de peligros radiactivos ha cambiado para siempre. La radiación ha creado zombis deformados y saqueadores que aprovechan el desorden para actuar sin control. En este ambiente hostil, comienzas a reunir a un grupo de supervivientes con habilidades y personalidades muy diferentes, pero unidos por un objetivo común: sobrevivir.
-Entre ellos está Julián, un coleccionista obsesionado con encontrar objetos especiales del mundo anterior, y su pareja Elena, que influye en las decisiones de Julián y te puede ayudar a negociar mejores tratos. Miguel, el chamán nuclear, te ofrece visiones y profecías en medio del caos, mientras su pareja Isabela mantiene la calma y apoya la espiritualidad del grupo. Pablo, el comerciante pragmático, André, el curandero sabio, Miki, el cocinero alegre, y Moya, el bufón que usa el humor para aliviar la tensión, completan esta extraña familia de sobrevivientes.
-En tu aventura, exploras las ruinas de Cartagena y sus alrededores, recolectando suministros y cuatro objetos muy especiales que podrían cambiar el destino del grupo y revelar secretos ocultos sobre el ataque y las verdaderas intenciones de Pedro Sanchas.
-A medida que te adentras en este mundo sombrío, descubres que la lucha no es solo contra los zombis y saqueadores, sino también contra la sombra política que aún controla desde las sombras. Sin embargo, no todo está perdido: el humor irreverente del grupo, cargado de bromas sobre cannabis y alcohol, aporta un contraste vital que mantiene la humanidad viva en medio de la devastación.
-Al final, aunque el futuro es incierto, el grupo se esfuerza por enviar un último mensaje de esperanza al mundo, recordando que aunque los días sean oscuros, la voluntad de seguir adelante es más fuerte que cualquier desastre.
-
-
 
 Personajes
 🧍 Tú (Jugador)
